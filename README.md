@@ -1,6 +1,6 @@
 # Image-Processing-Module-and-Language-Learning-App
 
-#Image Processing Module
+<strong>Image Processing Module<strong>
 Implement the following 5 functions and place them into a custom module called draw.py.  
 
 1. recolorImage(img, color) - Changes all non-white pixels of the image referred to by the parameter img to the specified color, and returns a new image with the changes. img is a  2D array of RGB pixels as seen in class to represent images. color is a list containing 3 integers, each from 0 to 255, representing RGB values. To create a new image use the cmpt120image.getBlackImage() function which returns a new canvas to draw on.
@@ -15,7 +15,7 @@ Implement the following 5 functions and place them into a custom module called d
 <img width="751" alt="截屏2023-11-23 上午11 35 51" src="https://github.com/yanjunq/Image-Processing-Module-and-Language-Learning-App/assets/143913255/91d2ceca-93bd-4ae6-a673-8920f3226895">
 
 
-#Language Learning App
+<strong>Language Learning App<strong>
 
 The app will first show a menu to the user to choose if they want to Learn, Play, or change Settings.
 
