@@ -12,6 +12,8 @@ Implement the following 5 functions and place them into a custom module called d
 4. drawItem(canvas, item, row, col) - Modify canvas by drawing the non-white pixels of the item (intended to be the image of a word) onto canvas. Row and col represent the top left pixel of canvas where the item (the item's top left 0,0 pixel) should be placed. Canvas and item are 2D images of RGB pixels. This function should assume that the canvas image is large enough to contain the item img in the row col indicated; row and col do NOT need to be validated. 
 
 5. distributeItems(canvas, item, n) - Draws the item onto the Canvas n times in random locations. Overlapping item images  is OK.
+<img width="751" alt="截屏2023-11-23 上午11 35 51" src="https://github.com/yanjunq/Image-Processing-Module-and-Language-Learning-App/assets/143913255/91d2ceca-93bd-4ae6-a673-8920f3226895">
+
 
 #Language Learning App
 
@@ -40,7 +42,7 @@ Ask the user how many of the items they found. If they enter the number correctl
 To play audio, call the function provided playSound(soundfile,env) (The function is included in the Started Kit code, in the main file). Depending on your coding environment, the implementation of this function will differ and it will depend on the ENV variable. 
 
 3. Settings. By default, the player learns 3 words. They can change the number of words to learn and or to play using the Settings option  in this menu. The application should NOT allow the user to change the number of words to less than 3 or more than the number of words in the blackfoot.csv file.
-4. 
+
 
 
 
